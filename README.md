@@ -257,16 +257,14 @@ flutter build appbundle // untuk format aab
 
 Konfigurasi untuk aplikasi iOS tersedia pada berkas **ios/Runner/Info.plist**.
 
-> flutter build ios
+```
+flutter build ios
+```
 
 ```
 flutter build web
 ```
 
 --- 
-
-**Ihsanunot (wisatabumi)**
-
----
 
 **Ihsanunot** (wisatabumi)
