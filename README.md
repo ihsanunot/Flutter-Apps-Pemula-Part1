@@ -21,8 +21,6 @@ Untuk lebih jelas soal code nya bisa cek di **CATATAN.md** tapi maaf Docs nya be
 
 ---
 
-## Cara Build nya (apk,ios,web)
-
 ## Development
 
 **Build APK**
